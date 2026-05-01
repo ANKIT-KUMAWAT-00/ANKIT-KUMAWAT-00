@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankit Kumawat</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer 🚀</h3>
 
-<!--
-**ANKIT-KUMAWAT-00/ANKIT-KUMAWAT-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANKIT-KUMAWAT-00&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+```bash
+$ whoami
+ankit_kumawat — B.Tech AI/ML Student | Developer
+
+$ cat skills.txt
+Python | Java | C++ | C | JavaScript | React | Node | MongoDB
+
+$ cat interests.txt
+Machine Learning | Operating Systems | Cybersecurity
+
+$ mission
+Build. Automate. Scale 🚀
