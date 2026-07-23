@@ -383,7 +383,7 @@ guest@ankit-os:~$ _
 <a href="https://www.linkedin.com/in/ankit-kumawat-5b5868310/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
 <a href="https://leetcode.com/u/ANKIT-KUMAWAT-00/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8A2BE2"/></a>
 <a href="https://github.com/ANKIT-KUMAWAT-00"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
+<a href="mailto:your.ankitkumawat9509207175@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
 
 </div>
 
