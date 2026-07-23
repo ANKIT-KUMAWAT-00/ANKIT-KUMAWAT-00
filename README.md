@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ============================== HEADER ============================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF66,50:00E5FF,75:8A2BE2,100:000000&height=280&section=header&text=ANKIT%20KUMAWAT'S%20AI%20LAB&fontSize=46&fontColor=00FF66&fontAlignY=38&desc=Neural%20Systems%20%7C%20Autonomous%20Agents%20%7C%20Full-Stack%20Intelligence&descAlignY=58&descSize=16&descColor=00E5FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF66,50:00E5FF,75:8A2BE2,100:000000&height=300&section=header&text=ANKIT%20OS%20%E2%80%94%20v10.0&fontSize=44&fontColor=00FF66&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=54&descSize=16&descColor=00E5FF&animation=fadeIn"/>
 
-<a href="https://github.com/Ankit-Kumawat">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+AI+Engineer;%3E+Machine+Learning+Enthusiast;%3E+Full+Stack+Developer;%3E+Open+Source+Builder;%3E+Problem+Solver;%3E+Always+Learning;%3E+Building+the+Future;%3E+Never+Stop+Creating&font=Fira+Code&size=22&pause=1200&color=00FF66&background=00000000&center=true&vCenter=true&width=680&height=50&separator=; "/>
+<a href="https://github.com/ANKIT-KUMAWAT-00">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+ankit_os...;%3E+AI+Engineer;%3E+Machine+Learning+Engineer;%3E+Full+Stack+Developer;%3E+B.Tech+CSE+%28AI+%26+ML%29;%3E+Building+real-world+intelligent+systems;%3E+status%3A+online&font=Fira+Code&size=21&pause=1300&color=00FF66&background=00000000&center=true&vCenter=true&width=720&height=50"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/BUILD-STABLE-00E5FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CORE-ACTIVE-8A2BE2?style=for-the-badge&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=ANKIT-KUMAWAT-00&style=for-the-badge&color=00ff66&labelColor=000000&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ANKIT-KUMAWAT-00?style=for-the-badge&labelColor=000000&color=00e5ff&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/CORE-ONLINE-8A2BE2?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -20,100 +20,90 @@
 <!-- ============================== BOOT SEQUENCE ============================== -->
 <div align="center">
 
-### `SYSTEM.INIT`
+### `root@ankit-os:~# ./boot.sh`
 
 </div>
 
 ```ansi
-[1;32m┌──────────────────────────────────────────────────────────┐[0m
-[1;32m│[0m  BOOT SEQUENCE — ANKIT.OS v3.5                            [1;32m│[0m
-[1;32m├──────────────────────────────────────────────────────────┤[0m
-[1;32m│[0m  [92m[✓][0m Initializing Profile..........................[92mDONE[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Loading Neural Network.........................[92mDONE[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Loading AI Models..............................[92mDONE[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Connecting to GitHub...........................[92mDONE[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Authenticating Developer.......................[92mDONE[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Loading Developer Stats........................[92mDONE[0m [1;32m│[0m
-[1;32m│[0m  [96m[SYSTEM READY][0m Welcome back, Ankit.                     [1;32m│[0m
-[1;32m└──────────────────────────────────────────────────────────┘[0m
+[1;32m┌──────────────────────────────────────────────────────────────────┐[0m
+[1;32m│[0m  ANKIT.OS v10.0 — SYSTEM BOOTLOADER                                [1;32m│[0m
+[1;32m├──────────────────────────────────────────────────────────────────┤[0m
+[1;32m│[0m  [92m[✓][0m Initializing kernel..................................[92mOK[0m [1;32m│[0m
+[1;32m│[0m  [92m[✓][0m Loading neural subsystems............................[92mOK[0m [1;32m│[0m
+[1;32m│[0m  [92m[✓][0m Mounting /repositories on github.com..................[92mOK[0m [1;32m│[0m
+[1;32m│[0m  [92m[✓][0m Verifying identity: ANKIT-KUMAWAT-00..................[92mOK[0m [1;32m│[0m
+[1;32m│[0m  [92m[✓][0m Compiling developer statistics........................[92mOK[0m [1;32m│[0m
+[1;32m│[0m  [96m[READY][0m Welcome back, Ankit. All systems nominal.             [1;32m│[0m
+[1;32m└──────────────────────────────────────────────────────────────────┘[0m
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
 
-<!-- ============================== ABOUT ME ============================== -->
+<!-- ============================== ABOUT ============================== -->
 <div align="center">
 
-## `◈ ABOUT_ME.exe`
+## `◈ 01 — IDENTITY.core`
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 identity:
-  name: "Ankit Kumawat"
-  degree: "B.Tech CSE (AI & ML)"
-  role: "AI Engineer in Training"
+  name: Ankit Kumawat
+  degree: B.Tech CSE — AI & ML
+  role: Aspiring AI/ML Engineer
 
-current_focus:
+philosophy: >
+  I don't build projects for marks.
+  I build projects that solve problems.
+
+domains:
   - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
+  - Machine Learning & Deep Learning
   - Computer Vision
+  - Backend & System Design
   - Operating Systems
   - Cyber Security
-  - Backend Systems
   - Full Stack Development
-
-mission: >
-  Build real-world intelligent systems —
-  not demos, not toys. Production-grade
-  software that ships and scales.
+  - Data Structures & Algorithms
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ```
-     ⟢ NEURAL PROFILE MAP ⟣
-     ─────────────────────
-     AI/ML        ▰▰▰▰▰▰▰▰▱▱  82%
-     Backend      ▰▰▰▰▰▰▰▰▰▱  90%
-     Frontend     ▰▰▰▰▰▰▰▱▱▱  70%
-     Systems      ▰▰▰▰▰▰▰▱▱▱  72%
-     Security     ▰▰▰▰▰▰▱▱▱▱  60%
-     ─────────────────────
-     STATUS: COMPILING FUTURE...
+   ⟢ CORE STATUS MONITOR ⟣
+   ────────────────────────
+   AI / ML        ▰▰▰▰▰▰▰▰▱▱  80%
+   Backend         ▰▰▰▰▰▰▰▰▰▱  88%
+   Frontend        ▰▰▰▰▰▰▰▱▱▱  68%
+   Optimization    ▰▰▰▰▰▰▰▱▱▱  70%
+   Security        ▰▰▰▰▰▰▱▱▱▱  60%
+   ────────────────────────
+   MODE: BUILDING_IN_PUBLIC
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/GOAL-Become_an_AI_Engineer_building_real--world_intelligent_systems-000000?style=for-the-badge&labelColor=00FF66&color=000000"/>
-</div>
-
 <br/>
 
 <!-- ============================== TECH STACK ============================== -->
 <div align="center">
 
-## `◈ TECH_STACK.sys`
-
-</div>
-
-<div align="center">
+## `◈ 02 — TECH_STACK.sys`
 
 **〈 LANGUAGES 〉**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark"/>
 
 **〈 FRONTEND 〉**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 
 **〈 BACKEND 〉**
 
@@ -122,14 +112,15 @@ mission: >
 <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=00FF66"/>
 <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
 
-**〈 ARTIFICIAL INTELLIGENCE 〉**
+**〈 ARTIFICIAL INTELLIGENCE & ML 〉**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,numpy,pandas&theme=dark"/>
 <br/>
 <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Random_Forest-000000?style=for-the-badge&logo=leaflet&logoColor=00FF66"/>
-<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=react&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=googlelens&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Random_Forest-000000?style=for-the-badge&labelColor=000000&color=00FF66"/>
+<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&labelColor=000000&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Firefly_Optimization-000000?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/Face_Recognition-000000?style=for-the-badge&logo=googlelens&logoColor=00FF66"/>
 
 **〈 DATABASES 〉**
 
@@ -150,6 +141,13 @@ mission: >
 <img src="https://img.shields.io/badge/Computer_Networks-000000?style=for-the-badge&labelColor=000000&color=00FF66"/>
 <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&labelColor=000000&color=00E5FF"/>
 
+**〈 EMBEDDED / IoT 〉**
+
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Bluetooth_HC--05-000000?style=for-the-badge&logo=bluetooth&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Ultrasonic_Sensor-000000?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/Gesture_Recognition-000000?style=for-the-badge&labelColor=000000&color=00FF66"/>
+
 </div>
 
 <br/>
@@ -157,7 +155,9 @@ mission: >
 <!-- ============================== PROJECTS ============================== -->
 <div align="center">
 
-## `◈ PROJECT_SHOWCASE.dir`
+## `◈ 03 — PROJECT_REGISTRY.dir`
+
+<sub>pulled live from <a href="https://github.com/ANKIT-KUMAWAT-00?tab=repositories">github.com/ANKIT-KUMAWAT-00</a> — real repositories only</sub>
 
 </div>
 
@@ -165,134 +165,154 @@ mission: >
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 `01 // Secure Auth & Scheduling`
+### 🧠 `resumeiq-ai`
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-00FF66?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF66?style=flat-square&labelColor=000000"/>
+> Production SaaS platform that scores resumes against job descriptions with Gemini AI and returns a structured ATS report.
 
-> Multi-factor biometric authentication fused with a live OS CPU-scheduling simulator.
+- Next.js 15 (App Router) + Tailwind + shadcn/ui
+- Supabase (Postgres + Auth), Google Gemini API
+- Stripe billing, Free/Pro tiers, usage analytics
 
-**Core Modules**
-- Face Recognition + Eye Detection
-- Gesture-Based Authentication
-- Gmail OTP Verification
-- `bcrypt` Encryption Layer
-- CPU Scheduling Simulator
-- Live Performance Comparison
-- Terminal-Style Interface
-
-`Python` `OpenCV` `bcrypt` `Systems Design`
+**[→ View Repository](https://github.com/ANKIT-KUMAWAT-00/resumeiq-ai)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 `02 // House Price Prediction`
+### 🛡️ `secure-os-scheduler`
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00E5FF?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF66"/> ⭐ 1
 
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00E5FF?style=flat-square&labelColor=000000"/>
+> Secure OS Process Scheduling Visualizer v2.0 — AI-based multi-factor auth fused with a live CPU scheduling simulator.
 
-> Ensemble regression pipeline tuned with bio-inspired optimization.
+- Face Recognition + Gesture Password + Email OTP
+- Five scheduling algorithms, Chart.js Gantt view
+- React + Vite, PBKDF2-SHA256, RBAC
 
-**Core Modules**
-- Random Forest Regression
-- XGBoost Ensemble Layer
-- Firefly Optimization Algorithm
-- Advanced Data Cleaning
-- Feature Engineering Pipeline
-- Cross-Validated Model Evaluation
-
-`Python` `Scikit-Learn` `XGBoost` `Pandas`
+**[→ View Repository](https://github.com/ANKIT-KUMAWAT-00/secure-os-scheduler)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ `03 // Voice Assistant Overlay`
+### 🏠 `-firefly-project`
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-8A2BE2?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-8A2BE2?style=flat-square&labelColor=000000"/>
+> Firefly Algorithm–based house price prediction — nature-inspired optimization tuning ML regressors.
 
-> A JARVIS-style always-on-top voice assistant with real-time transcription.
+- Random Forest + XGBoost regression
+- Firefly Algorithm hyperparameter search
+- Full data cleaning & feature engineering pipeline
 
-**Core Modules**
-- Electron Desktop Overlay
-- React Front-End Layer
-- FastAPI Backend Bridge
-- Gemini API Reasoning Engine
-- Real-Time Voice Pipeline
-- Faster-Whisper Transcription
-
-`Electron` `React` `FastAPI` `Gemini`
+**[→ View Repository](https://github.com/ANKIT-KUMAWAT-00/-firefly-project)**
 
 </td>
 <td width="50%" valign="top">
 
-### ✋ `04 // Gesture-Controlled Presentation`
+### 💼 `Payroll-System`
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF66?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00E5FF"/>
 
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF66?style=flat-square&labelColor=000000"/>
+> Payroll & Tax Management System — C++17 OOP backend (Crow) with a Bootstrap analytics frontend.
 
-> Hardware-linked gesture recognition for hands-free presentation control.
+- Employee CRUD, multi-type tax rules
+- Auto payroll calc, printable PDF payslips
+- Chart.js dashboards, file-based persistence
 
-**Core Modules**
-- Arduino Hardware Bridge
-- Bluetooth Communication Layer
-- Ultrasonic Distance Sensing
-- Python Automation Engine
-- Real-Time Gesture Recognition
+**[→ View Repository](https://github.com/ANKIT-KUMAWAT-00/Payroll-System)**
 
-`Arduino` `Python` `Bluetooth` `Computer Vision`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📘 `project-cse326`
+<img src="https://img.shields.io/badge/STATUS-COURSEWORK-00E5FF?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00FF66"/> ⭐ 1
+
+> CSE326 coursework repository.
+
+**[→ View Repository](https://github.com/ANKIT-KUMAWAT-00/project-cse326)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ `c-programming`
+<img src="https://img.shields.io/badge/STATUS-PRACTICE-8A2BE2?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00FF66"/>
+
+> C fundamentals and practice — the low-level foundation everything else is built on.
+
+**[→ View Repository](https://github.com/ANKIT-KUMAWAT-00/c-programming)**
 
 </td>
 </tr>
 </table>
 
+<div align="center"><sub>Not shown: a forked <code>event-managment</code> repo — excluded since it isn't original work.</sub></div>
+
 <br/>
 
-<!-- ============================== GITHUB ANALYTICS ============================== -->
+<!-- ============================== DASHBOARD ============================== -->
 <div align="center">
 
-## `◈ GITHUB_ANALYTICS.dashboard`
+## `◈ 04 — MISSION_CONTROL.dashboard`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-Kumawat&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&icon_color=00E5FF&text_color=ffffff&ring_color=8A2BE2" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Kumawat&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&text_color=ffffff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ANKIT-KUMAWAT-00&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&icon_color=00E5FF&text_color=ffffff&ring_color=8A2BE2&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT-KUMAWAT-00&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&text_color=ffffff&langs_count=8" height="180"/>
 
-<img src="https://streak-stats.demolab.com/?user=Ankit-Kumawat&theme=dark&hide_border=true&background=00000000&ring=00FF66&fire=00E5FF&currStreakLabel=00FF66&sideLabels=8A2BE2&dates=ffffff" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=ANKIT-KUMAWAT-00&theme=dark&hide_border=true&background=00000000&ring=00FF66&fire=00E5FF&currStreakLabel=00FF66&sideLabels=8A2BE2&dates=ffffff" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumawat&theme=react-dark&bg_color=00000000&color=00FF66&line=00E5FF&point=8A2BE2&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKIT-KUMAWAT-00&theme=react-dark&bg_color=00000000&color=00FF66&line=00E5FF&point=8A2BE2&hide_border=true&area=true" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit-Kumawat&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ANKIT-KUMAWAT-00&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
-<br/>
+`◈ CONTRIBUTION FIELD`
 
-`◈ 3D CONTRIBUTION FIELD`
-
-<img src="https://raw.githubusercontent.com/Ankit-Kumawat/Ankit-Kumawat/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/ANKIT-KUMAWAT-00/ANKIT-KUMAWAT-00/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
-> **Note:** the widgets above render live once `Ankit-Kumawat` is set to the real GitHub username, `github-readme-stats`/`streak-stats` are deployed (or the public instance is used), and the snake-animation GitHub Action is enabled in this repo's workflow.
+<br/>
+
+<!-- ============================== LEETCODE ============================== -->
+<div align="center">
+
+## `◈ 05 — LEETCODE_UPLINK.dashboard`
+
+<a href="https://leetcode.com/u/ANKIT-KUMAWAT-00/">
+<img src="https://leetcard.jacoblin.cool/ANKIT-KUMAWAT-00?theme=dark&font=Fira%20Code&ext=heatmap&bg_color=00000000&border_color=00FF66&text_color=ffffff"/>
+</a>
+
+</div>
 
 <br/>
 
-<!-- ============================== AI TERMINAL ============================== -->
+<!-- ============================== TERMINAL ============================== -->
 <div align="center">
 
-## `◈ AI_TERMINAL.sh`
+## `◈ 06 — AI_TERMINAL.sh`
 
 </div>
 
 ```bash
 guest@ankit-os:~$ whoami
-> Ankit Kumawat
+> Ankit Kumawat — B.Tech CSE (AI & ML), Lovely Professional University
 
-guest@ankit-os:~$ skills --list
-> Python · React · TensorFlow · FastAPI · OpenCV
+guest@ankit-os:~$ projects --list
+> resumeiq-ai · secure-os-scheduler · -firefly-project · Payroll-System
 
-guest@ankit-os:~$ mission --status
-> Build Intelligent Systems
+guest@ankit-os:~$ skills --top
+> Python · TypeScript/JavaScript · C++ · TensorFlow · React · FastAPI
 
-guest@ankit-os:~$ current_status --verbose
-> [Learning]    ▓▓▓▓▓▓▓▓▓▓ 100%
-> [Building]    ▓▓▓▓▓▓▓▓▓▓ 100%
-> [Improving]   ▓▓▓▓▓▓▓▓▓▓ 100%
+guest@ankit-os:~$ status
+> [Learning]   ▓▓▓▓▓▓▓▓▓▓ 100%
+> [Building]   ▓▓▓▓▓▓▓▓▓▓ 100%
+> [Shipping]   ▓▓▓▓▓▓▓▓░░  80%
+
+guest@ankit-os:~$ goal
+> Become an AI Engineer building real-world intelligent systems
+
+guest@ankit-os:~$ run ai --mode production
+> compiling neural pathways... done
+> deploying to real world... in progress
 
 guest@ankit-os:~$ _
 ```
@@ -302,17 +322,15 @@ guest@ankit-os:~$ _
 <!-- ============================== TIMELINE ============================== -->
 <div align="center">
 
-## `◈ EVOLUTION_TIMELINE.log`
+## `◈ 07 — EVOLUTION_TIMELINE.log`
 
 <table>
-<tr><td align="center">🟢</td><td><b>Started Programming</b> — first lines of code, first bugs, first wins</td></tr>
-<tr><td align="center">🔵</td><td><b>Learning AI</b> — dove into ML fundamentals and neural networks</td></tr>
-<tr><td align="center">🟣</td><td><b>Building ML Projects</b> — turned theory into working models</td></tr>
-<tr><td align="center">🟢</td><td><b>Open Source</b> — started contributing and building in public</td></tr>
-<tr><td align="center">🔵</td><td><b>Internships</b> — applied skills in real production environments</td></tr>
-<tr><td align="center">🟣</td><td><b>AI Engineer</b> — <i>current chapter</i></td></tr>
-<tr><td align="center">⚪</td><td><b>Research</b> — <i>next chapter</i></td></tr>
-<tr><td align="center">⚪</td><td><b>Entrepreneur</b> — <i>future chapter</i></td></tr>
+<tr><td align="center">🟢</td><td><b>Started Programming</b> — C, then Python, then everything else</td></tr>
+<tr><td align="center">🔵</td><td><b>Learning AI/ML</b> — regression, classification, neural nets</td></tr>
+<tr><td align="center">🟣</td><td><b>Building Real Projects</b> — resumeiq-ai, secure-os-scheduler, Payroll-System</td></tr>
+<tr><td align="center">🟢</td><td><b>Open Source</b> — <i>current chapter</i></td></tr>
+<tr><td align="center">⚪</td><td><b>AI Engineer</b> — <i>next chapter</i></td></tr>
+<tr><td align="center">⚪</td><td><b>Research</b> — <i>future chapter</i></td></tr>
 </table>
 
 </div>
@@ -322,48 +340,28 @@ guest@ankit-os:~$ _
 <!-- ============================== ACHIEVEMENTS ============================== -->
 <div align="center">
 
-## `◈ ACHIEVEMENTS.db`
-
-</div>
+## `◈ 08 — ACHIEVEMENTS.db`
 
 <table width="100%">
 <tr>
-<td align="center" width="16.6%">🏆<br/><b>Hackathons</b><br/><sub>add entries</sub></td>
-<td align="center" width="16.6%">📜<br/><b>Certifications</b><br/><sub>add entries</sub></td>
-<td align="center" width="16.6%">🔬<br/><b>Research</b><br/><sub>add entries</sub></td>
-<td align="center" width="16.6%">🌐<br/><b>Open Source</b><br/><sub>add entries</sub></td>
-<td align="center" width="16.6%">💻<br/><b>LeetCode</b><br/><sub>add profile</sub></td>
-<td align="center" width="16.6%">⭐<br/><b>GitHub Stars</b><br/><sub>auto-tracked</sub></td>
+<td align="center" width="20%">🏆<br/><b>Hackathons</b><br/><sub>add entries</sub></td>
+<td align="center" width="20%">📜<br/><b>Certifications</b><br/><sub>add entries</sub></td>
+<td align="center" width="20%">🌐<br/><b>Open Source</b><br/><sub>add entries</sub></td>
+<td align="center" width="20%">💻<br/><b>LeetCode</b><br/><sub>live above</sub></td>
+<td align="center" width="20%">⭐<br/><b>Repo Stars</b><br/><sub>auto-tracked</sub></td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=000000&color=00FF66&label=LeetCode%20Solved&query=%24.totalSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME"/>
-<img src="https://img.shields.io/codeforces/rating/YOUR_CODEFORCES_USERNAME?style=for-the-badge&labelColor=000000&color=00E5FF"/>
 </div>
 
 <br/>
 
-<!-- ============================== FUN SECTION ============================== -->
+<!-- ============================== FUN ============================== -->
 <div align="center">
 
-## `◈ SYS.fun`
+## `◈ 09 — SYS.fun`
 
 <img width="80%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
-
-</div>
-
-```
-   ___    _____  __        __    ____
-  /   |  /  _/ / / /  ___ _/ /_  / __ \
- / /| |  / /  / /_/  / __ `/ __ \ / / / /
-/ ___ |_/ /  / __  / / /_/ / /_/ // /_/ /
-/_/  |_/___/ /_/ /_/ \__,_/_.___//_____/
-
-   > BUILDING INTELLIGENT SYSTEMS, ONE COMMIT AT A TIME
-```
-
-<div align="center">
 
 **〈 QUOTE OF THE SESSION 〉**
 
@@ -380,13 +378,12 @@ guest@ankit-os:~$ _
 <!-- ============================== CONTACT ============================== -->
 <div align="center">
 
-## `◈ CONTACT.link`
+## `◈ 10 — CONTACT.link`
 
+<a href="https://www.linkedin.com/in/ankit-kumawat-5b5868310/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://leetcode.com/u/ANKIT-KUMAWAT-00/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8A2BE2"/></a>
+<a href="https://github.com/ANKIT-KUMAWAT-00"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8A2BE2"/></a>
-<a href="https://your-resume-link.example.com"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=00FF66"/></a>
-<a href="https://github.com/Ankit-Kumawat"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 
 </div>
 
@@ -396,5 +393,5 @@ guest@ankit-os:~$ _
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:8A2BE2,50:00E5FF,75:00FF66,100:000000&height=180&section=footer"/>
 
 <div align="center">
-<sub>⚡ Thanks for visiting the lab. See you in the next commit. ⚡</sub>
+<sub>⚡ Thanks for visiting ANKIT OS. See you in the next commit. ⚡</sub>
 </div>
