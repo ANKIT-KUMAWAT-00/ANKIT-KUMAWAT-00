@@ -54,7 +54,8 @@
 identity:
   name: Ankit Kumawat
   degree: B.Tech CSE — AI & ML
-  role: Aspiring AI/ML Engineer
+  role:Software Engineer
+  AI & Backend Developer
 
 philosophy: >
   I don't build projects for marks.
