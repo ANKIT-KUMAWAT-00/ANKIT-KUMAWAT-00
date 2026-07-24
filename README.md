@@ -393,5 +393,5 @@ guest@ankit-os:~$ _
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:8A2BE2,50:00E5FF,75:00FF66,100:000000&height=180&section=footer"/>
 
 <div align="center">
-<sub>⚡ Thanks for visiting ANKIT OS. See you in the next commit. ⚡</sub>
+<sub>⚡ Thanks for visiting My profile. See you in the next commit. ⚡</sub>
 </div>
